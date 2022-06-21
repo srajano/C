@@ -48,7 +48,8 @@ E.g. C, Cpp | E.g. Python, Javascript, Ruby
 
 <!-- >main.c->(preprocessor)-> main.i->(compiler) main.asm->(assembler)-> main.obj->(linker) main.exe -->
 
-![](https://www.concordehotels.com.tr/jhsan.asp?iid=85940087&cid=10)
+
+![Text](https://digitalmarketingdeal.com/blog/wp-content/uploads/2019/12/What-is-C-Programing-C-Language-Basics.png)
 
 > #DEFINE PI 3.14  
 >May (3) I (1) have (4) a (1) large (5) container (9) of (2) coffee (6) beans (5)
@@ -58,3 +59,12 @@ E.g. C, Cpp | E.g. Python, Javascript, Ruby
 - Octal starts with 0
 - Hexa starts with 0x
 - E.g. 023, 19, 0x13
+
+### Project Ideas
+- to create a decimal to hexa and octa [converter]() and vice versa
+
+Scientific Notations in C
+
+[Ascii Table](https://github.com/srajano/C/blob/main/ascii%20table.md)
+
+> 5 == 5 but '5' == 53
