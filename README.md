@@ -46,8 +46,9 @@ E.g. C, Cpp | E.g. Python, Javascript, Ruby
 4) The object code is sent to linker which links it to the library such as header files. Then it is converted into executable code. A siple.exe file is generated.
 5) The executable code is sent to loader which loads it into memory and then it is executed. After execution, output is sent to console.
 
->main.c->(preprocessor)-> main.i->(compiler) main.asm->(assembler)-> main.obj->(linker) main.exe
+<!-- >main.c->(preprocessor)-> main.i->(compiler) main.asm->(assembler)-> main.obj->(linker) main.exe -->
 
+![](https://www.concordehotels.com.tr/jhsan.asp?iid=85940087&cid=10)
 
 > #DEFINE PI 3.14  
 >May (3) I (1) have (4) a (1) large (5) container (9) of (2) coffee (6) beans (5)
